@@ -1,0 +1,6 @@
+# Welcome to "Communicate using Markdown"! 👋
+
+## What is Markdown?
+Markdown is a lightweight syntax for formatting text on GitHub.
+
+###### This is the smallest header
